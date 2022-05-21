@@ -1,5 +1,16 @@
 # Changelog
 
+### [1.8.7](https://github.com/windmill-labs/windmill/compare/v1.8.6...v1.8.7) (2022-05-21)
+
+
+### Bug Fixes
+
+* update monaco language-client for better lsp support ([9b79cc9](https://github.com/windmill-labs/windmill/commit/9b79cc9870d11cce3ba284208458bb80d53af940))
+* update monaco language-client for better lsp support ([68a3e1b](https://github.com/windmill-labs/windmill/commit/68a3e1b333664e48810d69455837e3449c8236fb))
+* update monaco language-client for better lsp support ([9177173](https://github.com/windmill-labs/windmill/commit/917717373fbdceab5ff36fe7c65fc7a1776a0f22))
+* update monaco language-client for better lsp support ([b61fb6d](https://github.com/windmill-labs/windmill/commit/b61fb6dc302aa8dd5e270bd8c1dd2b1edd4c9907))
+* update monaco language-client for better lsp support ([42aa386](https://github.com/windmill-labs/windmill/commit/42aa386119adc6845081dbe44330efa605395a2e))
+
 ### [1.8.6](https://github.com/windmill-labs/windmill/compare/v1.8.5...v1.8.6) (2022-05-18)
 
 
